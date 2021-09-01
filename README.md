@@ -1,3 +1,0 @@
-# hello-world
-Just another repository
-Olá! Meu nome é Thamires, estou fazendo o tutorial...
