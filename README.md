@@ -2,7 +2,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Api Conecta" title="#ApiConecta" src="#" />
+    Api Conecta
 </h1>
 
 <h4 align="center"> 
